@@ -1,0 +1,12 @@
+{
+  "name": "superiordrummer_to_ssd5_midi_converter",
+  "version": "1.0.0",
+  "description": "Converts SuperiorDrummer midi folder&file system to SSD5.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ghashy",
+  "license": "MIT"
+}
